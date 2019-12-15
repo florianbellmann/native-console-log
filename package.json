@@ -1,0 +1,22 @@
+{
+  "name": "native-console-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianjuesten/native-console-log.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/florianjuesten/native-console-log/issues"
+  },
+  "homepage": "https://github.com/florianjuesten/native-console-log#readme"
+}

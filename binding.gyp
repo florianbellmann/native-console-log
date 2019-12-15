@@ -2,7 +2,7 @@
   "targets": [
     {
       "target_name": "addon",
-      "sources": [ "example.cc" ]
+      "sources": [ "native-console.log.cc" ]
     }
   ]
 }
